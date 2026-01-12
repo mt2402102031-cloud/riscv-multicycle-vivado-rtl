@@ -20,3 +20,4 @@ rtl/          # RTL source files
 tb/           # Testbench  
 constraints/  # XDC constraints  
 
+For detailed architecture and verification results, see the documentation in `docs/`.
